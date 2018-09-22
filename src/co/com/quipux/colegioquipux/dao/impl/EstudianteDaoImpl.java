@@ -26,5 +26,7 @@ public class EstudianteDaoImpl implements EstudianteDAO{
     public EstudianteEntity consultarEstudiante(int idestudiante) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
+    /**
+     * Comentario xD
+     */
 }
